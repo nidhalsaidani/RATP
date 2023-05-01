@@ -90,7 +90,7 @@ In the screenshot, you can see the program displaying the shortest path between 
 
 Check out this short video demo of the program in action:
 
-[![Shortest Path Program Demo Video](https://i.imgur.com/KC0IiYN.jpeg)](https://user-images.githubusercontent.com/16276121/235456984-6dcb3860-0e43-4501-9cec-e5f1bca6f439.mp4))
+[![Shortest Path Program Demo Video](https://i.imgur.com/KC0IiYN.jpeg)](https://user-images.githubusercontent.com/16276121/235456984-6dcb3860-0e43-4501-9cec-e5f1bca6f439.mp4)
 
 In the video, you can see the program being used to find the shortest path between two stations in the transportation network. The estimated travel time and the metro lines the user should take are displayed, along with the path itself.
 
